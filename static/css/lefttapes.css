@@ -1,0 +1,26 @@
+body {
+    padding-top: 100px;
+}
+
+.navbar {
+    min-height: 100px !important;
+}
+
+#sidebar #articles i {
+    margin-right: 3px;
+}
+
+ul.list-group #read {
+    margin-left: 10px;
+    list-style-type: none;
+}
+
+.red-text {
+    color: #e74c3c;
+}
+
+span#four-oh-four {
+    font-size: 54px;
+    color: #e74c3c;
+    padding: 10px;
+}
